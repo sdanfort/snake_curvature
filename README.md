@@ -12,3 +12,7 @@ A full example can be run, with the option to save the figure, tabulate reuslts
 (saved as .txt and .xls), and save data as a .mat struct in runCurvatureCode.m
 
 Note that a snake centerline .txt file is not provided, and you must update your file paths for the script to work.
+
+Code written by Shannon Danforth
+
+Moore, T.Y., Danforth, S.M., Davis Rabosky, A.R., A kinematic analysis of Micrurus coral snakes reveals unexpected variation in stereotyped anti-predator displays within a mimicry system, Physiological and Biochemical Zoology, 2019.
