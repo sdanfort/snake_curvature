@@ -8,7 +8,7 @@ This repository provides a set of functions to:
 - determine if each curve falls to the left or right of the snake's head, 
 - plot the results for user visualization.
 
-A full example can be run, with the option to save the figure, tabulate reuslts 
+A full example can be run, with the option to save the figure, tabulate results 
 (saved as .txt and .xls), and save data as a .mat struct in runCurvatureCode.m
 
 Note that snake centerline .txt files are not provided, and you must update your file paths in runCurvatureCode.m
